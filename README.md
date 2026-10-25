@@ -11,7 +11,7 @@
   [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
   <p align="center">
-    A premium, high-performance streaming application engineered with Flutter and <code>libmpv</code>. Stream movies, TV series, and live television with ultra-fast multi-source providers, 4K auto-quality selection, multi-language audio tracks, and hardware-accelerated playback.
+    A premium, high-performance streaming application to Stream movies and TV series with ultra-fast multi-source providers, 4K quality selection, multi-language audio tracks, and hardware-accelerated playback.
   </p>
 
   <p align="center">
