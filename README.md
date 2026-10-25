@@ -24,7 +24,7 @@
     </a>
   </p>
 
-  [⬇️ Download Latest](#-download--installation) • [✨ Features](#-key-features) • [🛠️ Tech Stack](#️-tech-stack--architecture) • [🔨 Building From Source](#-building-from-source)
+
 
 </div>
 
