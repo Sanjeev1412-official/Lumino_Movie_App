@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/lumino.png" alt="Lumino Logo" width="120">
+  <img src="assets/icon/app_icon.png" alt="Lumino Logo" width="120">
   
   # Lumino
   **Next-Generation Movie & TV Streaming Platform**
